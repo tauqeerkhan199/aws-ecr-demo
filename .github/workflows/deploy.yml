@@ -7,7 +7,7 @@ on:
 
 env:
   AWS_REGION: ap-south-1
-  ECR_REPOSITORY: ecr-demo-repository
+  ECR_REPOSITORY: docker-project-demo
 
 jobs:
   build-and-deploy:
